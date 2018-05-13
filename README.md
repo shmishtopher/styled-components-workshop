@@ -5,7 +5,7 @@ author: "@shmish"
 group: experimental
 ---
 
-[capture_1]: ./assets/capture_1.png
+[capture_1]: https://github.com/shmishtopher/styled-components-workshop/blob/master/assets/capture_1.PNG
 
 # Styled Components
 [Styled Components](https://www.styled-components.com/) is a library that creates styled [React](https://reactjs.org/) components in a clean, idiomatic way.  In this workshop, we'll use `styled-components` to create a small weather app that pulls data from the free [dark sky](https://darksky.net/dev) API.  This workshop uses the [Parcel](https://parceljs.org/) bundler, but you can use any bundler you wish (WebPack, Rollup, etc..).  This workshop assumes that you have a recent version of node and NPM installed.
