@@ -5,7 +5,8 @@
   "main": "dist/index.js",
   "scripts": {
     "test": "node .",
-    "start": "parcel src/index.html"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
   "author": "Shmish <shmish90@gmail.com>",
   "license": "MIT",
