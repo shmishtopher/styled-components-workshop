@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node .",
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "build": "parcel build src/index.html --public-url ./"
   },
   "author": "Shmish <shmish90@gmail.com>",
   "license": "MIT",
